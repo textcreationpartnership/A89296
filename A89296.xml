@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more perfect and exact relation of the last great and terrible sea-fight neer the Downs, between the two great fleets of England and Holland, on Tuesday last: with a list of the particulars; the chasing of the Dutch fleet to their own coast, on Wednesday and Thursday; the great execution done on both sides; the number of ships sunk, taken, batter'd, rent and torn; and divers of the English forced to strike into harbor for fear of sinking; with the return of Gen. Blake to the Downs: and another bloudy fight neer the Streights between the English and Dutch, continuing for the space of 3 days; with the sad event and success therof.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89296</idno><idno type="EEBO-CITATION">99865885</idno>
+  <idno type="VID">166315</idno>
+  <idno type="EEBO-PROQUEST">2240939975</idno>
+  
+            <idno type="STC">Wing M2713</idno>
+            <idno type="STC">Thomason E676_2</idno>
+            <idno type="STC">ESTC R206779</idno>
+            <idno type="PROQUEST">99865885</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865885e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166315)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 104:E676[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more perfect and exact relation of the last great and terrible sea-fight neer the Downs, between the two great fleets of England and Holland, on Tuesday last: with a list of the particulars; the chasing of the Dutch fleet to their own coast, on Wednesday and Thursday; the great execution done on both sides; the number of ships sunk, taken, batter'd, rent and torn; and divers of the English forced to strike into harbor for fear of sinking; with the return of Gen. Blake to the Downs: and another bloudy fight neer the Streights between the English and Dutch, continuing for the space of 3 days; with the sad event and success therof.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Geo: Horton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob. 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Naval battles --  Early works to 1800.</term>
+               <term type="topical_term">Anglo-Dutch War, 1652-1654. --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166315:1"/>
+            <p>A more perfect and exact RELATION OF The last great and terrible Sea-fight neer the Downs, between the two great fleets of England and Holland, on Tuesday last: With a List of the particulars; the chasing of the Dutch fleet to their own Coast, on Wednesday and Thursday; the great execution done on both sides; the number of ships sunk, taken, batter'd, rent and torn; and divers of the English forced to strike into Harbor for fear of sinking; with the return of Gen. Blake to the Downs: And another bloudy fight neer the Streights between the English and Dutch, con<g ref="char:EOLhyphen"/>tinuing for the space of 3 days; with the sad event and success therof.</p>
+            <figure>
+               <figDesc>depiction of two ships or galleons armed with cannons, with smoke between them; nearby two smaller ships</figDesc>
+            </figure>
+            <p>Imprinted at London for Geo: Horton, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:166315:2"/>
+            <pb n="3" facs="tcp:166315:2"/>
+            <head>A more perfect and exact Relation of the great and memorable Sea-fight between the English and the Dutch, on Tuesday Wednesday, and Thursday last; with the true particulars thereof, and the number sunk and taken.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Hollander having made several bold At<g ref="char:EOLhyphen"/>tempts, even up to our very Cinque-Ports of Dover and Sandwich, his Excellency General Blake called a Councel of Officers, who with great alacrity, unanimously resolved to give a check to their insolency; in pursuance whereof, the whole fleet weighed anchor, who after few hours sailing, came within sight of the Dutch Navy on Tuesday last; and bea<g ref="char:EOLhyphen"/>ring up to them, the enemy prepared to receive 'em, which the General perceiving, made all the possible hast he could to action, so that immediatly began a great dispute, which continued for the space of four hours; and with great va<g ref="char:EOLhyphen"/>lour and courage, on both sides, was the conflict maintain<g ref="char:EOLhyphen"/>ed;
+<pb n="4" facs="tcp:166315:3"/> the Onset was extreme hot and violent; and with great fury did we salute each other; the General conceiv<g ref="char:EOLhyphen"/>ing that this might possibly be his last before he sealed all his faithful services with his precious bloud, charged twice through the enemies fleet with the Royal Soveraign, and the Resolution, receiving many a great Volley from them, which did exceedingly rent and tear his Sails and Tack<g ref="char:EOLhyphen"/>ling, especially the Resolution; yet blessed be God in his own ship he lost not above three men, onely some few wounded.</p>
+            <p>Captain Bodilo performed singular service, and was in<g ref="char:EOLhyphen"/>gaged even in the very thickest of action, being surround<g ref="char:EOLhyphen"/>ed by six stout Men of War; he received many dangerous shot, had divers wounded, and about 20 slain; but at last, by the assistance of the Speaker, the Greyhound, and Dia<g ref="char:EOLhyphen"/>mond, she got safe off, but being disabled for the present, was forced to strike into Yarmouth, to be new cork'd and rigg'd up. Two Merchants that were likewise in the ser<g ref="char:EOLhyphen"/>vice having received several shot under water, and being neer sinking, were forced to make to the shore. Many of our ships are much rent and torn, being most of them ex<g ref="char:EOLhyphen"/>tremely engaged; but what our loss of men at present is we know not, yet thus much I may ingenuously infer, that in so sharp a Conflict, disputed with so great gallan<g ref="char:EOLhyphen"/>try and resolution on both sides, but some loss must needs be sustain'd: However, confident I am, that the enemies is far greater, for we have sunk their Rear-Admirall, a gallant ship carrying about fifty Guns, and their great ship that carryed 68 Guns, being the greatest that was ever yet set forth by their high and mighty States, and the first time that ever she engaged in service; Our men boarded her twice, but was both times repelled; and the third time be<g ref="char:EOLhyphen"/>came masters; yet not long they could enjoy her, for even
+<pb n="5" facs="tcp:166315:3"/> in a moment of time, they were forced to desert her, by reason she had received many shots betwixt Wind &amp; Wa<g ref="char:EOLhyphen"/>ter, which caused her suddenly to sink, yet 6 of our men perished in her, time not permitting them liberty to e<g ref="char:EOLhyphen"/>scape forth.</p>
+            <p>We sunk also another of their Men of War; and took their Vice Admiral, and two more lusty ships. After which, bearing up close to them, with a Resolution to hail and boord, the enemy began to decline engagement; but our General gave Order to embrace the pursuit, in obedience whereunto, we chased them all day of Wednesday, and part of Thursday, till we came within sight of their own shore; during which time, the fight was extreme hot, and great was the execution; but what further loss the ene<g ref="char:EOLhyphen"/>my sustained, we know not, yet certainly it must needes be very great; for from Tuesday in the morning till Thursday in the evening, the noise of the Canon was continually heard, and in our pursuit we ply'd them close with round shot; though notwithstanding Admiral De-witte and De-Ruttyer resolutely returned us many a thundering Vol<g ref="char:EOLhyphen"/>ley; and indeed, to deal plainly, the major part of them fought very gallantly; notwithstanding which, it pleased Divine Providence to crown us with Victory, and so to dissipate their great Armado, that many of them are forced to betake themselves to Harbour. We are now making up to the Downs, with the whole fleet, and the Generall intends to send out Scouts, to observe the motion of the enemy; touching which, I doubt not but to give you am<g ref="char:EOLhyphen"/>ple satisfaction very suddenly; in the interim, I shall onely present you with a general List of what hath already hap<g ref="char:EOLhyphen"/>ned; as more evidently apppears by the inclosed.</p>
+            <pb n="6" facs="tcp:166315:4"/>
+            <list>
+               <head>A List of the ships sunk and taken in the last great fight between the English and the Dutch, &amp;c.</head>
+               <item>The Hollanders Rear-Admiral sunk, car<g ref="char:EOLhyphen"/>rying 50 Guns.</item>
+               <item>Their great new ship, carrying 68 Guns, sunk, being the biggest that was ever yet set forth by their States, and the first time she went upon service.</item>
+               <item>Six of our men that boarded her, perished in her.</item>
+               <item>Another of their best ships sunk, carrying about 40 Guns.</item>
+               <item>Their Vice-Admiral taken, and two more Men of War.</item>
+               <item>And their whole fleet chased even to their own Harbors, and Cinque-ports</item>
+               <item>Many of our ships were rent and torn; e<g ref="char:EOLhyphen"/>specially the Resolution, and 3 men were
+<pb n="7" facs="tcp:166315:4"/> slain in the Generals ship, besides divers wounded.</item>
+               <item>Captain Bodilo forced to strike in at Yar<g ref="char:EOLhyphen"/>mouth with his ship for fear of sinking. Divers of his men slain and wounded.</item>
+               <item>Two Merchants ships that were in the ser<g ref="char:EOLhyphen"/>vice, having received severall shot under Water, were forced to make to shore, and divers of their men were slainand wounded.</item>
+            </list>
+            <closer>
+               <dateline>Aboard the Garland <date>Octob. 2. 1652.</date> Northward of the Downs.</dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <head>A Letter from the Streights, touching a<g ref="char:EOLhyphen"/>nother bloudy fight between the English and Dutch neer Leghorn, continuing for the space of 3 dayes.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>CAptain Bodilaw, Commander of the Paragon, one of the States ships, with the Phoenix Frigat, and two o<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:166315:5"/> men of war coming from the Levant; and having with him 4 good Merchant ships, being come down neer to Lei<g ref="char:EOLhyphen"/>ghorn, the Dutch who do still keep our ships blocked up in that port, resolved to go out to fight our ships, &amp; there<g ref="char:EOLhyphen"/>fore made choice of ten of their best men of war, who went out leaving still 6 behind them to keep ours in the Har<g ref="char:EOLhyphen"/>bor: The fight continued neer 3 dayes, and the Dutch ha<g ref="char:EOLhyphen"/>ving spont much valour to become masters of our men of war, four of the Dutch best ships surrounded Capt. Bodi<g ref="char:EOLhyphen"/>law, as being the best ship and Admiral of the Squadron, fought him very stoutly above 4 hours; but after they were forced to fall off and leave her, yet not without great loss, and likewise on our side many killed and wounded: During which time, the other ships were in a hot dispute, and the Captain of the Phoenix attempted to boord one of the Dutch ships who had lost her Mast, and after some dispute became master of her, but the gaeediness of plun<g ref="char:EOLhyphen"/>der having made our men too negligent of their own Fri<g ref="char:EOLhyphen"/>got, and another Dutchman coming up on the other side, and finding her void of men, soon became masters of the Phoenix, and regained their own, took our Capiain and his men prisoners and by reason of the neer approach of the night carryed them safe away; our ships are gone to Por<g ref="char:EOLhyphen"/>tolongone, and the Dutch returned to joyn with those they left at Leghorn.</p>
+            <closer>
+               <dateline>Levant <date>Septem. 20. 1652.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
